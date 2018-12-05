@@ -10,3 +10,9 @@ D:\18098\MyProject\Collections\Collections\obj\Debug\Collections.pdb
 D:\18098\MyProject\Collections\Collections\bin\Debug\Collections.exe
 D:\18098\MyProject\Collections\Collections\bin\Debug\Collections.pdb
 D:\18098\MyProject\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+D:\GitHub\MyProject\Collections\Collections\bin\Debug\Collections.exe.config
+D:\GitHub\MyProject\Collections\Collections\bin\Debug\Collections.exe
+D:\GitHub\MyProject\Collections\Collections\bin\Debug\Collections.pdb
+D:\GitHub\MyProject\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+D:\GitHub\MyProject\Collections\Collections\obj\Debug\Collections.exe
+D:\GitHub\MyProject\Collections\Collections\obj\Debug\Collections.pdb
