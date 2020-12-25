@@ -22,3 +22,10 @@ D:\GitHub\Collections\Collections\obj\Debug\Collections.pdb
 D:\GitHub\Collections\Collections\bin\Debug\Collections.exe
 D:\GitHub\Collections\Collections\bin\Debug\Collections.pdb
 D:\GitHub\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+E:\GitHub\MyProject\Collections\Collections\bin\Debug\Collections.exe.config
+E:\GitHub\MyProject\Collections\Collections\bin\Debug\Collections.exe
+E:\GitHub\MyProject\Collections\Collections\bin\Debug\Collections.pdb
+E:\GitHub\MyProject\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+E:\GitHub\MyProject\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+E:\GitHub\MyProject\Collections\Collections\obj\Debug\Collections.exe
+E:\GitHub\MyProject\Collections\Collections\obj\Debug\Collections.pdb
